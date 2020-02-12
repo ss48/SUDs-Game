@@ -1,4 +1,4 @@
-# SUDs_Game
+# SUDs-Game
 
 • SRPSimTM (Serious Game) was developed for decision-making and environmental management
 • SRPSimTM improved participants knowledge regarding SuDS design and flood mitigation
