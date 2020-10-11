@@ -9,7 +9,4 @@
 
 • Game-playing experience was assessed using; Dual-Flow, Flow, Presence, and Absorption
 
-• Simulated data fit the Rasch model with no dimensionality beyond Rasch model
-
-
-Please download Unity game engine on your PC/machine, then follow the Instruction provided in the Game Download Instruction.png to run and play the game
+• Please download Unity game engine on your PC/machine, then follow the Instruction provided in the Game Download Instruction.png to run and play the game
